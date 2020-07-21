@@ -1,0 +1,3 @@
+# IMPEDIR LISTAGEN DO PRÓPRIO .HTACCESS E VÁRIAS OUTRAS EXTENSÕES DE ARQUIVOS #
+# PREVENT LISTING FROM OWN .HTACCESS AND VARIOUS OTHER FILE EXTENSIONS #
+IndexIgnore .htaccess *.php *.js *.css *.htm *.html *.log *.sql *.pdf *.swf *.rtf *.doc *.odt *.xls
